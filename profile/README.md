@@ -71,7 +71,7 @@ We're looking for **5 independent agent builders** (shopping, travel or SaaS-rec
 
 **[Join the pilot](mailto:fairplughq@gmail.com?subject=Fairplug%20pilot)**: email us with your agent's name and what it recommends.
 
-Or reach out directly: Kunal Adhia, founder, Sydney. X: [@FairPlugHQ](https://x.com/FairPlugHQ) · Email: [fairplughq@gmail.com](mailto:fairplughq@gmail.com) · GitHub: [github.com/fairplug](https://github.com/fairplug)
+Or reach out directly: Kunal Adhia, founder. X: [@FairPlugHQ](https://x.com/FairPlugHQ) · Email: [fairplughq@gmail.com](mailto:fairplughq@gmail.com) · GitHub: [github.com/fairplug](https://github.com/fairplug)
 
 ---
 
